@@ -4,6 +4,7 @@
 #define WIFI_SSID "Foo"
 #define WIFI_PASSWORD "Bar"
 
+#define CRAP_PORT 1338
 
 
 #endif
