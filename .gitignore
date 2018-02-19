@@ -1,0 +1,8 @@
+
+firmware/
+build/
+
+*.swp
+*.swo
+
+
